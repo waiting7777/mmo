@@ -6,6 +6,6 @@ total_set = 2
 
 card_type = ['hero', 'creature', 'spell', 'fortune', 'event']
 
-card_set = { 1 : 'Basic Set', 
-             2 : 'Void Rising'
+card_set = { 1 : 'Basic-Set', 
+             2 : 'Void-Rising'
            }

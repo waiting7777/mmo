@@ -1,4 +1,4 @@
-{Basic Set}
+{Basic-Set}
 
 [hero]
 Cassandra, Seeker of Light|haven|/images/cards/normal/Cassandra.png

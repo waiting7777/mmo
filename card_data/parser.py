@@ -2,7 +2,8 @@
 
 execfile("../common/config.py")
 
-
+cj = cookielib.CookieJar()
+opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
 
 for i in range(total_set):
 
@@ -54,7 +55,22 @@ for i in range(total_set):
                 tail = line.find('" ', head)
                 
                 cardinfo[j+1]['card_faction'] = line[head + len('alt="'):tail]
+        
+            # get image
             
+            if os.path.exists('./%s/%s'%(card_set[index], type)) == False:
+                os.system('mkdir ./%s/%s'%(card_set[index], type))
+                
+            if os.path.exists('./%s/%s/%s'%(card_set[index], type, cardinfo[j+1]['card_image'])) == False:
+            
+                resp = opener.open('http://www.mmdoc.net/%s/'%(cardinfo[j+1]['card_image']))
+                respline = resp.read()
+                
+                image = open('./%s/%s/%s.png'%(card_set[index], type, cardinfo[j+1]['card_name']), 'w')
+                image.write(respline)
+                image.close()
+            
+        
             
         print cardinfo
         # raw_input()
@@ -64,6 +80,7 @@ for i in range(total_set):
             output += cardinfo[key]['card_name'] + '|'
             output += cardinfo[key]['card_faction'] + '|'
             output += cardinfo[key]['card_image'] + '\n'
+            
             
     w = open('%s/total_card.txt'%card_set[index], 'w')
     w.write(output)

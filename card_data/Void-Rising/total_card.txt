@@ -1,4 +1,4 @@
-{Void Rising}
+{Void-Rising}
 
 [hero]
 Kieran, Knight of Negation|haven|/images/cards/normal/Kieran.png
