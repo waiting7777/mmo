@@ -1,0 +1,233 @@
+{Basic Set}
+
+[hero]
+Cassandra, Seeker of Light|haven|/images/cards/normal/Cassandra.png
+Siegfried, Champion of Faith|haven|/images/cards/normal/Siegfried.png
+Jezziel, Invoker of Hope|haven|/images/cards/normal/Jezziel.png
+Sandalphon, Lord of Power|haven|/images/cards/normal/Sandalphon.png
+Xorm, Champion of the Abyss|inferno|/images/cards/normal/Xorm.png
+Kal-Azaar, Invoker of Agony|inferno|/images/cards/normal/Kal-Azaar.png
+Garant, Seeker of Discord|inferno|/images/cards/normal/Garant.png
+Belias, Lord of the Kennels|inferno|/images/cards/normal/Belias.png
+Fleshbane, Champion of the Misshapen|necropolis|/images/cards/normal/Fleshbane.png
+Seria, Seeker of the Lost Souls|necropolis|/images/cards/normal/Seria.png
+Ariana of the Severed Fates|necropolis|/images/cards/normal/Ariana.png
+Nergal, Lord of Pestilence|necropolis|/images/cards/normal/Nergal.png
+Mother Namtaru, Invoker of Death|necropolis|/images/cards/normal/Mother-Namtaru.png
+Kelthor, Lord of Fury|stronghold|/images/cards/normal/Kelthor.png
+Acamas, Champion of the Bloodhorn|stronghold|/images/cards/normal/Acamas.png
+Kat, Seeker of Freedom|stronghold|/images/cards/normal/Kat.png
+Shaar, Invoker of the Skies|stronghold|/images/cards/normal/Shaar.png
+Crag Hack|stronghold|/images/cards/normal/Crag-Hack.png
+[creature]
+Imperial Crossbowman|haven|/images/cards/normal/Imperial-Crossbowman.png
+Imperial Sentinel|haven|/images/cards/normal/Imperial-Sentinel.png
+Tithe Collector|haven|/images/cards/normal/Tithe-Collector.png
+Loyal Griffin|haven|/images/cards/normal/Loyal-Griffin.png
+Holy Praetorian|haven|/images/cards/normal/Holy-Praetorian.png
+Expert Marksman|haven|/images/cards/normal/Expert-Marksman.png
+Elite Squire|haven|/images/cards/normal/Elite-Squire.png
+Devoted Sister|haven|/images/cards/normal/Devoted-Sister.png
+Radiant Glory|haven|/images/cards/normal/Radiant-Glory.png
+Sun Rider|haven|/images/cards/normal/Sun-Rider.png
+Warrior Seraph|haven|/images/cards/normal/Warrior-Seraph.png
+Vestal|haven|/images/cards/normal/Vestal.png
+Imperial Griffin|haven|/images/cards/normal/Imperial-Griffin.png
+Eleonore|haven|/images/cards/normal/Eleonore.png
+Imperial Guard|haven|/images/cards/normal/Imperial-Guard.png
+Blazing Glory|haven|/images/cards/normal/Blazing-Glory.png
+Sun Crusader|haven|/images/cards/normal/Sun-Crusader.png
+Celestial|haven|/images/cards/normal/Celestial.png
+Hell Hound|inferno|/images/cards/normal/Hell-Hound.png
+Maniac|inferno|/images/cards/normal/Maniac.png
+Succubus|inferno|/images/cards/normal/Succubus.png
+Demented|inferno|/images/cards/normal/Demented.png
+Breeder|inferno|/images/cards/normal/Breeder.png
+Cerberus|inferno|/images/cards/normal/Cerberus.png
+Tormentor|inferno|/images/cards/normal/Tormentor.png
+Ravager|inferno|/images/cards/normal/Ravager.png
+Pit Fiend|inferno|/images/cards/normal/Pit-Fiend.png
+Lilim|inferno|/images/cards/normal/Lilim.png
+Juganaut|inferno|/images/cards/normal/Juganaut.png
+Chaos Imp|inferno|/images/cards/normal/Chaos-Imp.png
+Breeder Mother|inferno|/images/cards/normal/Breeder-Mother.png
+Lacerator|inferno|/images/cards/normal/Lacerator.png
+Doom Bringer|inferno|/images/cards/normal/Doom-Bringer.png
+Chaos Sorceress|inferno|/images/cards/normal/Chaos-Sorceress.png
+Pit Lord|inferno|/images/cards/normal/Pit-Lord.png
+Abyssal Lord|inferno|/images/cards/normal/Abyssal-Lord.png
+Wretched Ghoul|necropolis|/images/cards/normal/Wretched-Ghoul.png
+Skeleton Spearman|necropolis|/images/cards/normal/Skeleton-Spearman.png
+Lingering Ghost|necropolis|/images/cards/normal/Lingering-Ghost.png
+Neophyte Lich|necropolis|/images/cards/normal/Neophyte-Lich.png
+Plague Skeleton|necropolis|/images/cards/normal/Plague-Skeleton.png
+Vampire Knight|necropolis|/images/cards/normal/Vampire-Knight.png
+Ravenous Ghoul|necropolis|/images/cards/normal/Ravenous-Ghoul.png
+Plague Zombie|necropolis|/images/cards/normal/Plague-Zombie.png
+Lamasu|necropolis|/images/cards/normal/Lamasu.png
+Archlich|necropolis|/images/cards/normal/Archlich.png
+Fate Spinner|necropolis|/images/cards/normal/Fate-Spinner.png
+Vengeful Spectre|necropolis|/images/cards/normal/Vengeful-Spectre.png
+Atropos|necropolis|/images/cards/normal/Atropos.png
+Putrid Lamasu|necropolis|/images/cards/normal/Putrid-Lamasu.png
+Banshee|necropolis|/images/cards/normal/Banshee.png
+Vampire Lord|necropolis|/images/cards/normal/Vampire-Lord.png
+Fate Weaver|necropolis|/images/cards/normal/Fate-Weaver.png
+Ghost Dragon|necropolis|/images/cards/normal/Ghost-Dragon.png
+Goblin Scout|stronghold|/images/cards/normal/Goblin-Scout.png
+Ranaar Mauler|stronghold|/images/cards/normal/Ranaar-Mauler.png
+Ranaar Harpy|stronghold|/images/cards/normal/Ranaar-Harpy.png
+Goblin Hunter|stronghold|/images/cards/normal/Goblin-Hunter.png
+Jaguar Warrior|stronghold|/images/cards/normal/Jaguar-Warrior.png
+Centaur Archer|stronghold|/images/cards/normal/Centaur-Archer.png
+Dreamwalker|stronghold|/images/cards/normal/Dreamwalker.png
+Tainted Orc|stronghold|/images/cards/normal/Tainted-Orc.png
+Striking Fury|stronghold|/images/cards/normal/Striking-Fury.png
+Cyclops Brawler|stronghold|/images/cards/normal/Cyclops-Brawler.png
+Crusher|stronghold|/images/cards/normal/Crusher.png
+Blood Caller|stronghold|/images/cards/normal/Blood-Caller.png
+Centaur Marauder|stronghold|/images/cards/normal/Centaur-Marauder.png
+Dreamreaver|stronghold|/images/cards/normal/Dreamreaver.png
+Panther Warrior|stronghold|/images/cards/normal/Panther-Warrior.png
+Enraged Cyclops|stronghold|/images/cards/normal/Enraged-Cyclops.png
+Raging Smasher|stronghold|/images/cards/normal/Raging-Smasher.png
+Wyvern Rider|stronghold|/images/cards/normal/Wyvern-Rider.png
+Dark Assassin|neutral|/images/cards/normal/Dark-Assassin.png
+Helexian Librarian|neutral|/images/cards/normal/Helexian-Librarian.png
+Pao Hunter|neutral|/images/cards/normal/Pao-Hunter.png
+Wandering Bard|neutral|/images/cards/normal/Wandering-Bard.png
+Rogue Mercenary|neutral|/images/cards/normal/Rogue-Mercenary.png
+Pao Deathseeker|neutral|/images/cards/normal/Pao-Deathseeker.png
+Sea Elf Archer|neutral|/images/cards/normal/Sea-Elf-Archer.png
+Wild Griffin|neutral|/images/cards/normal/Wild-Griffin.png
+Lesser Shadow Elemental|neutral|/images/cards/normal/Lesser-Shadow-Elemental.png
+Lesser Fire Elemental|neutral|/images/cards/normal/Lesser-Fire-Elemental.png
+Lesser Air Elemental|neutral|/images/cards/normal/Lesser-Air-Elemental.png
+Moonslik Spider|neutral|/images/cards/normal/Moonslik-Spider.png
+Angry Wyvern|neutral|/images/cards/normal/Angry-Wyvern.png
+Lesser Earth Elemental|neutral|/images/cards/normal/Lesser-Earth-Elemental.png
+[spell]
+Wind Shield|air|/images/cards/normal/Wind-Shield.png
+Lighting Speed|air|/images/cards/normal/Lighting-Speed.png
+Grounded|air|/images/cards/normal/Grounded.png
+Storm Wind|air|/images/cards/normal/Storm-Wind.png
+Fog Veil|air|/images/cards/normal/Fog-Veil.png
+Lightning Bolt|air|/images/cards/normal/Lightning-Bolt.png
+Chain Lightning|air|/images/cards/normal/Chain-Lightning.png
+Cyclone|air|/images/cards/normal/Cyclone.png
+Father Skys Wrath|air|/images/cards/normal/Father-Skys-Wrath.png
+Purge|dark|/images/cards/normal/Purge.png
+Vampiric Embrace|dark|/images/cards/normal/Vampiric-Embrace.png
+Agony|dark|/images/cards/normal/Agony.png
+Weakness|dark|/images/cards/normal/Weakness.png
+Death Seal|dark|/images/cards/normal/Death-Seal.png
+Shadow Image|dark|/images/cards/normal/Shadow-Image.png
+Soulreaver|dark|/images/cards/normal/Soulreaver.png
+Puppet Master|dark|/images/cards/normal/Puppet-Master.png
+Curse of the Netherworld|dark|/images/cards/normal/Curse-of-the-Netherworld.png
+Rock Wall|earth|/images/cards/normal/Rock-Wall.png
+Venomous Touch|earth|/images/cards/normal/Venomous-Touch.png
+Regeneration|earth|/images/cards/normal/Regeneration.png
+Earthquake|earth|/images/cards/normal/Earthquake.png
+Stone Shield|earth|/images/cards/normal/Stone-Shield.png
+Contagion|earth|/images/cards/normal/Contagion.png
+Stone Skin|earth|/images/cards/normal/Stone-Skin.png
+Mass Regeneration|earth|/images/cards/normal/Mass-Regeneration.png
+Insect Swarm|earth|/images/cards/normal/Insect-Swarm.png
+Fire Bolt|fire|/images/cards/normal/Fire-Bolt.png
+Fire Trap|fire|/images/cards/normal/Fire-Trap.png
+Inner Fire|fire|/images/cards/normal/Inner-Fire.png
+Fire Shield|fire|/images/cards/normal/Fire-Shield.png
+Frenzy|fire|/images/cards/normal/Frenzy.png
+Immolation|fire|/images/cards/normal/Immolation.png
+Fireball|fire|/images/cards/normal/Fireball.png
+Firestorm|fire|/images/cards/normal/Firestorm.png
+Armageddon|fire|/images/cards/normal/Armageddon.png
+Heal|light|/images/cards/normal/Heal.png
+Cleansing Light|light|/images/cards/normal/Cleansing-Light.png
+Sunburst|light|/images/cards/normal/Sunburst.png
+Bless|light|/images/cards/normal/Bless.png
+Martyr|light|/images/cards/normal/Martyr.png
+Word of Light|light|/images/cards/normal/Word-of-Light.png
+Divine Intervention|light|/images/cards/normal/Divine-Intervention.png
+Celestial Armour|light|/images/cards/normal/Celestial-Armour.png
+Resurrection|light|/images/cards/normal/Resurrection.png
+Dispel Magic|primal|/images/cards/normal/Dispel-Magic.png
+Slow|primal|/images/cards/normal/Slow.png
+Teleport|primal|/images/cards/normal/Teleport.png
+Soul Syphon|primal|/images/cards/normal/Soul-Syphon.png
+Town Portal|primal|/images/cards/normal/Town-Portal.png
+Spell Twister|primal|/images/cards/normal/Spell-Twister.png
+Arcane Ward|primal|/images/cards/normal/Arcane-Ward.png
+For Whom the Bell Tolls|primal|/images/cards/normal/For-Whom-the-Bell-Tolls.png
+Time Jump|primal|/images/cards/normal/Time-Jump.png
+Refreshing Spring|water|/images/cards/normal/Refreshing-Spring.png
+Eternal Winter|water|/images/cards/normal/Eternal-Winter.png
+Ice Wall|water|/images/cards/normal/Ice-Wall.png
+Frozen Ground|water|/images/cards/normal/Frozen-Ground.png
+Geyser|water|/images/cards/normal/Geyser.png
+Ice Spikes|water|/images/cards/normal/Ice-Spikes.png
+Blizzard|water|/images/cards/normal/Blizzard.png
+Icy Weapon|water|/images/cards/normal/Icy-Weapon.png
+Tsunami|water|/images/cards/normal/Tsunami.png
+[fortune]
+Dwarven Smith|haven|/images/cards/normal/Dwarven-Smith.png
+Fortified Outpost|haven|/images/cards/normal/Fortified-Outpost.png
+Fountain of Youth|haven|/images/cards/normal/Fountain-of-Youth.png
+Tax Office|haven|/images/cards/normal/Tax-Office.png
+River of Gems|haven|/images/cards/normal/River-of-Gems.png
+Cassandras Imperial Devotion|haven|/images/cards/normal/Cassandras-Imperial-Devotion.png
+Prison|haven|/images/cards/normal/Prison.png
+Altar of Destruction|inferno|/images/cards/normal/Altar-of-Destruction.png
+Chaos Rift|inferno|/images/cards/normal/Chaos-Rift.png
+House of Madness|inferno|/images/cards/normal/House-of-Madness.png
+Pit of Hate|inferno|/images/cards/normal/Pit-of-Hate.png
+Twist of Fate|inferno|/images/cards/normal/Twist-of-Fate.png
+Hall of Torment|inferno|/images/cards/normal/Hall-of-Torment.png
+Garants Purge|inferno|/images/cards/normal/Garants-Purge.png
+Asha Uses All|necropolis|/images/cards/normal/Asha-Uses-All.png
+Mass Grave|necropolis|/images/cards/normal/Mass-Grave.png
+No Rest for the Wicked|necropolis|/images/cards/normal/No-Rest-for-the-Wicked.png
+Shantiri Ruins|necropolis|/images/cards/normal/Shantiri-Ruins.png
+Graveyard|necropolis|/images/cards/normal/Graveyard.png
+Altar of Eternal Servitude|necropolis|/images/cards/normal/Altar-of-Eternal-Servitude.png
+Serias Legion|necropolis|/images/cards/normal/Serias-Legion.png
+Blood Shaman Hut|stronghold|/images/cards/normal/Blood-Shaman-Hut.png
+Sacrificial Altar|stronghold|/images/cards/normal/Sacrificial-Altar.png
+Orc Camp|stronghold|/images/cards/normal/Orc-Camp.png
+Blood Pool|stronghold|/images/cards/normal/Blood-Pool.png
+Arena|stronghold|/images/cards/normal/Arena.png
+The Last Stand|stronghold|/images/cards/normal/The-Last-Stand.png
+Kats Grand Finale|stronghold|/images/cards/normal/Kats-Grand-Finale.png
+Ambush Spot|neutral|/images/cards/normal/Ambush-Spot.png
+Gold Pile|neutral|/images/cards/normal/Gold-Pile.png
+Rally Flag|neutral|/images/cards/normal/Rally-Flag.png
+Dragon Vein|neutral|/images/cards/normal/Dragon-Vein.png
+Weapon Supplies|neutral|/images/cards/normal/Weapon-Supplies.png
+Cartographer|neutral|/images/cards/normal/Cartographer.png
+Observatory|neutral|/images/cards/normal/Observatory.png
+Crystal of Power|neutral|/images/cards/normal/Crystal-of-Power.png
+Campfire|neutral|/images/cards/normal/Campfire.png
+Call to Duty|neutral|/images/cards/normal/Call-to-Duty.png
+Broken Bridge|neutral|/images/cards/normal/Broken-Bridge.png
+Reinforcements|neutral|/images/cards/normal/Reinforcements.png
+Arcane Academy|neutral|/images/cards/normal/Arcane-Academy.png
+Altar of Shadows|neutral|/images/cards/normal/Altar-of-Shadows.png
+Wasteland|neutral|/images/cards/normal/Wasteland.png
+Stone of Enlightenment|neutral|/images/cards/normal/Stone-of-Enlightenment.png
+Crystal Cavern|neutral|/images/cards/normal/Crystal-Cavern.png
+Altar of Asha|neutral|/images/cards/normal/Altar-of-Asha.png
+Crystal of Revelation|neutral|/images/cards/normal/Crystal-of-Revelation.png
+[event]
+Celebrations|neutral|/images/cards/normal/Celebrations.png
+Week of the Mercenaries|neutral|/images/cards/normal/Week-of-the-Mercenaries.png
+Week of the Dead|neutral|/images/cards/normal/Week-of-the-Dead.png
+Week of Taxes|neutral|/images/cards/normal/Week-of-Taxes.png
+Week of Knowledge|neutral|/images/cards/normal/Week-of-Knowledge.png
+Month of the Emerald Song|neutral|/images/cards/normal/Month-of-the-Emerald-Song.png
+Month of the Dancing Flames|neutral|/images/cards/normal/Month-of-the-Dancing-Flames.png
+Market of Wonders|neutral|/images/cards/normal/Market-of-Wonders.png
+Market of Shadows|neutral|/images/cards/normal/Market-of-Shadows.png
+Mana Storm|neutral|/images/cards/normal/Mana-Storm.png
+Day of Fortune|neutral|/images/cards/normal/Day-of-Fortune.png
+Week of the Weaponsmiths|neutral|/images/cards/normal/Week-of-the-Weaponsmiths.png

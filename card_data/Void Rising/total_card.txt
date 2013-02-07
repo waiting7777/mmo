@@ -1,0 +1,115 @@
+{Void Rising}
+
+[hero]
+Kieran, Knight of Negation|haven|/images/cards/normal/Kieran.png
+Phrias, Prince of Annihilation|inferno|/images/cards/normal/Phrias.png
+Ishuma, Lord of Dragons|sanctuary|/images/cards/normal/Ishuma.png
+Kaiko, Invoker of the Depths|sanctuary|/images/cards/normal/Kaiko.png
+Akane, Mourner of Lost Memories|sanctuary|/images/cards/normal/Akane.png
+Takana Osore, Champion of the Tides|sanctuary|/images/cards/normal/Takana-Osore.png
+Yukiko, Seeker of Honour|sanctuary|/images/cards/normal/Yukiko.png
+[creature]
+Wolf Captain|haven|/images/cards/normal/Wolf-Captain.png
+Wolf Marskman|haven|/images/cards/normal/Wolf-Marskman.png
+Wolf Preatorian|haven|/images/cards/normal/Wolf-Preatorian.png
+Wolf Justicar|haven|/images/cards/normal/Wolf-Justicar.png
+Hellfire Imp|inferno|/images/cards/normal/Hellfire-Imp.png
+Caller of the Void|inferno|/images/cards/normal/Caller-of-the-Void.png
+Hellfire Cerberus|inferno|/images/cards/normal/Hellfire-Cerberus.png
+Hellfire Juggernaut|inferno|/images/cards/normal/Hellfire-Juggernaut.png
+Moonsilk Skeleton|necropolis|/images/cards/normal/Moonsilk-Skeleton.png
+Vampire Assassin|necropolis|/images/cards/normal/Vampire-Assassin.png
+Moonsilk Spinner|necropolis|/images/cards/normal/Moonsilk-Spinner.png
+Fate Sealer|necropolis|/images/cards/normal/Fate-Sealer.png
+Blackskull Warchanter|stronghold|/images/cards/normal/Blackskull-Warchanter.png
+Blackskull Goblin|stronghold|/images/cards/normal/Blackskull-Goblin.png
+Blackskull Vulture Rider|stronghold|/images/cards/normal/Blackskull-Vulture-Rider.png
+Blackskull Clan Warlord|stronghold|/images/cards/normal/Blackskull-Clan-Warlord.png
+Shark Guard|sanctuary|/images/cards/normal/Shark-Guard.png
+Spring Spirit|sanctuary|/images/cards/normal/Spring-Spirit.png
+Naga Tactician|sanctuary|/images/cards/normal/Naga-Tactician.png
+White Fox|sanctuary|/images/cards/normal/White-Fox.png
+Coral Priestess|sanctuary|/images/cards/normal/Coral-Priestess.png
+Shanriya Guard|sanctuary|/images/cards/normal/Shanriya-Guard.png
+Kappa|sanctuary|/images/cards/normal/Kappa.png
+Snow Maiden|sanctuary|/images/cards/normal/Snow-Maiden.png
+Shanriya Priestess|sanctuary|/images/cards/normal/Shanriya-Priestess.png
+Nyorai Sairensa|sanctuary|/images/cards/normal/Nyorai-Sairensa.png
+Wanizame|sanctuary|/images/cards/normal/Wanizame.png
+Kirin|sanctuary|/images/cards/normal/Kirin.png
+Pearl Priestess|sanctuary|/images/cards/normal/Pearl-Priestess.png
+Deep Mountain Yeti|sanctuary|/images/cards/normal/Deep-Mountain-Yeti.png
+Yuki-Onna|sanctuary|/images/cards/normal/Yuki-Onna.png
+Mizu Kami|sanctuary|/images/cards/normal/Mizu-Kami.png
+Kenshi|sanctuary|/images/cards/normal/Kenshi.png
+Kappa Shoya|sanctuary|/images/cards/normal/Kappa-Shoya.png
+Naga Tide Master|sanctuary|/images/cards/normal/Naga-Tide-Master.png
+Sacred Kirin|sanctuary|/images/cards/normal/Sacred-Kirin.png
+Naga Warrior|sanctuary|/images/cards/normal/Naga-Warrior.png
+Kensei|sanctuary|/images/cards/normal/Kensei.png
+Black Vulture|neutral|/images/cards/normal/Black-Vulture.png
+Dire Wolf|neutral|/images/cards/normal/Dire-Wolf.png
+Void Wraith|neutral|/images/cards/normal/Void-Wraith.png
+Deep Mountain Turtle|neutral|/images/cards/normal/Deep-Mountain-Turtle.png
+Blind Brother|neutral|/images/cards/normal/Blind-Brother.png
+Greater Fire Elemental|neutral|/images/cards/normal/Greater-Fire-Elemental.png
+Shi-No-Shi|neutral|/images/cards/normal/Shi-No-Shi.png
+[spell]
+Lifting Wind|air|/images/cards/normal/Lifting-Wind.png
+Storm Arrows|air|/images/cards/normal/Storm-Arrows.png
+Sand Storm|air|/images/cards/normal/Sand-Storm.png
+Moonsilk Fetters|dark|/images/cards/normal/Moonsilk-Fetters.png
+Despair|dark|/images/cards/normal/Despair.png
+Curse of the Penitent|dark|/images/cards/normal/Curse-of-the-Penitent.png
+Poisonous Bulb|earth|/images/cards/normal/Poisonous-Bulb.png
+Earths Grasp|earth|/images/cards/normal/Earths-Grasp.png
+Poison Cloud|earth|/images/cards/normal/Poison-Cloud.png
+Combustion|fire|/images/cards/normal/Combustion.png
+Fiery Weapon|fire|/images/cards/normal/Fiery-Weapon.png
+Mass Inner Fire|fire|/images/cards/normal/Mass-Inner-Fire.png
+Guardian Angel|light|/images/cards/normal/Guardian-Angel.png
+Purity|light|/images/cards/normal/Purity.png
+Ward Against Darkness|light|/images/cards/normal/Ward-Against-Darkness.png
+Mass Dispel|primal|/images/cards/normal/Mass-Dispel.png
+Negate Magic|primal|/images/cards/normal/Negate-Magic.png
+Spell Steal|primal|/images/cards/normal/Spell-Steal.png
+Monsoon|water|/images/cards/normal/Monsoon.png
+Water Wall|water|/images/cards/normal/Water-Wall.png
+Clashing Tides|water|/images/cards/normal/Clashing-Tides.png
+[fortune]
+Tree of Truth|haven|/images/cards/normal/Tree-of-Truth.png
+Imperial Phalanx|haven|/images/cards/normal/Imperial-Phalanx.png
+Elraths Blessing|haven|/images/cards/normal/Elraths-Blessing.png
+Halls of Amnesia|inferno|/images/cards/normal/Halls-of-Amnesia.png
+Maws of Chaos|inferno|/images/cards/normal/Maws-of-Chaos.png
+Hellfire Bridge|inferno|/images/cards/normal/Hellfire-Bridge.png
+Rite of Necromantic Transfer|necropolis|/images/cards/normal/Rite-of-Necromantic-Transfer.png
+Arianas Lair|necropolis|/images/cards/normal/Arianas-Lair.png
+Altar of the Spider Goddess|necropolis|/images/cards/normal/Altar-of-the-Spider-Goddess.png
+Ritual of the Blood Feathers|stronghold|/images/cards/normal/Ritual-of-the-Blood-Feathers.png
+Call of the Bloodhorn|stronghold|/images/cards/normal/Call-of-the-Bloodhorn.png
+Suprise Attack|stronghold|/images/cards/normal/Suprise-Attack.png
+Hidden Temple|sanctuary|/images/cards/normal/Hidden-Temple.png
+Pillar of Foresight|sanctuary|/images/cards/normal/Pillar-of-Foresight.png
+Whirlpool|sanctuary|/images/cards/normal/Whirlpool.png
+Yukikos Shrine|sanctuary|/images/cards/normal/Yukikos-Shrine.png
+Underwater Fortress|sanctuary|/images/cards/normal/Underwater-Fortress.png
+The Frozen Maze|sanctuary|/images/cards/normal/The-Frozen-Maze.png
+Temple Tower|sanctuary|/images/cards/normal/Temple-Tower.png
+Honoured Land|sanctuary|/images/cards/normal/Honoured-Land.png
+Challenge Hall|sanctuary|/images/cards/normal/Challenge-Hall.png
+Avalanche|sanctuary|/images/cards/normal/Avalanche.png
+Inheritance|neutral|/images/cards/normal/Inheritance.png
+Monastery of Helexia|neutral|/images/cards/normal/Monastery-of-Helexia.png
+Stolen Supplies|neutral|/images/cards/normal/Stolen-Supplies.png
+Curse of Negation|neutral|/images/cards/normal/Curse-of-Negation.png
+Pillage|neutral|/images/cards/normal/Pillage.png
+Cosmic Realignment|neutral|/images/cards/normal/Cosmic-Realignment.png
+Tower of Oblivion|neutral|/images/cards/normal/Tower-of-Oblivion.png
+Throne of renewal|neutral|/images/cards/normal/Throne-of-renewal.png
+[event]
+Day of the Fallen Wolf|neutral|/images/cards/normal/Day-of-the-Fallen-Wolf.png
+Week of Austerity|neutral|/images/cards/normal/Week-of-Austerity.png
+Week of the Tamed Spirits|neutral|/images/cards/normal/Week-of-the-Tamed-Spirits.png
+Week of the Wild Spirits|neutral|/images/cards/normal/Week-of-the-Wild-Spirits.png
+Path of the Ancestors|neutral|/images/cards/normal/Path-of-the-Ancestors.png
